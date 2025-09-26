@@ -1,0 +1,4 @@
+.env
+.env.example
+bookstack_app_data/
+bookstack_db_data/
